@@ -1,6 +1,6 @@
-# Hi, I'm Someshwar Deore 👋
+# 👋 Hi, I'm Someshwar Deore
 
-### 2nd Year IT Student | Python & DSA Learner | Data Science Enthusiast
+### 💻 2nd-Year Information Technology Student | 📊 Data Science Enthusiast
 
 ---
 
@@ -28,20 +28,113 @@ I'm a **2nd-year Information Technology student** passionate about programming, 
 </tr>
 </table>
 
----
-
 ## 🤝 Connect With Me
 
 <p>
   <a href="mailto:someshwardeore@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-  <a href="https://wa.me/7972624402">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/someshwar-deore-57b747425/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="https://wa.me/91XXXXXXXXXX">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 💻 Languages, Libraries & Technologies
+
+### 🧑‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+**Python • Java • SQL • MySQL**
+
+### 📚 Libraries & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+**NumPy • Pandas • Matplotlib**
+
+---
+
+## 📊 Data Science & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+</p>
+
+- 📌 Data Cleaning & Preprocessing
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🔍 Exploratory Data Analysis (EDA)
+- 🧮 Working with NumPy & Pandas
+
+---
+
+## 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+**VS Code • Git • GitHub**
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SomeshwarDeore&theme=github-compact&hide_border=true&area=true" width="100%">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SomeshwarDeore&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarDeore&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SomeshwarDeore&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SomeshwarDeore&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+---
+
+### 🚀 Keep Learning • Keep Building • Never Give Up
