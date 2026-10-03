@@ -125,18 +125,9 @@ I'm a **2nd-year Information Technology student** passionate about programming, 
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/gh-pages/github-contribution-grid-snake.svg)
 ---
 
 ### 🚀 Keep Learning • Keep Building • Never Give Up
