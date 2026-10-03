@@ -1,190 +1,122 @@
-# Hi 👋, I'm Someshwar Deore
+# Hi, I'm Someshwar Deore 👋
 
-### 🎓 2nd Year Information Technology Student | 🐍 Python Learner | 📊 Data Science Enthusiast
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=IT+Student+%F0%9F%8E%93;Python+%7C+DSA+Learner+%F0%9F%90%8D;Data+Science+Enthusiast+%F0%9F%93%8A;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+### 2nd Year IT Student | Python & DSA Learner | Data Science Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd Year **Information Technology student**
-- 🐍 Currently learning and strengthening **Python**
-- 🧠 Learning **Data Structures & Algorithms**
-- 🗄️ Learning **SQL** and database concepts
-- 📊 Exploring **Data Science and Data Analytics**
-- 💻 Interested in **problem solving and programming**
-- 🚀 Building projects while continuously learning
-- 📚 Focused on developing **strong programming fundamentals**
-- 🎯 Passionate about exploring the field of **Data Science**
+<table>
+<tr>
+<td width="65%" valign="top">
+
+I'm a **2nd-year Information Technology student** passionate about programming, problem solving, and Data Science.
+
+- 🐍 Learning **Python**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🗄️ Learning **SQL & Databases**
+- 📊 Exploring **Data Science & Data Analytics**
+- 🔨 Building projects to strengthen my fundamentals
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="250">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### 🐍 Python
+## 🤝 Connect With Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <a href="https://github.com/SomeshwarDeore">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/someshwar-deore-57b747425/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
-**Python • Problem Solving • Object-Oriented Programming**
-
-### 🧠 Data Structures & Algorithms
-
-**Lists • Strings • Stack • Queue • Searching • Sorting • Recursion**
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**SQL • MySQL • Database Fundamentals**
-
-### 📊 Data Science & Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-</p>
-
-**NumPy • Pandas • Matplotlib • Data Analysis • Statistics**
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**Git • GitHub • VS Code**
 
 ---
 
-## 📚 My Learning Journey
+## 💻 Languages & Technologies
 
-```text
-Python Fundamentals
-        ↓
-Object-Oriented Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Problem Solving
-        ↓
-SQL & Databases
-        ↓
-Data Analysis
-        ↓
-Data Science
-        ↓
-Machine Learning
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas,matplotlib" />
+</p>
 
-> Building strong fundamentals first and gradually moving toward advanced concepts.
+**Python • SQL • MySQL • NumPy • Pandas • Matplotlib**
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🧠 DSA & Concepts
 
-- 🐍 Python programming and problem solving
-- 🧩 Data Structures & Algorithms
-- 🗄️ SQL and database concepts
-- 📊 Exploring Data Science
-- 📈 Learning Data Analysis
-- 💻 Building small programming projects
-- 🔧 Improving my Git & GitHub workflow
+**Lists • Strings • Stack • Queue • Searching • Sorting • Recursion • OOP**
 
 ---
 
-## 📂 Projects
+## 🔧 Tools
 
-| Project | Description | Technology |
-|---|---|---|
-| 🐍 Python Practice | Python fundamentals and problem-solving practice | Python |
-| 🧩 DSA Practice | Data Structures & Algorithms implementations | Python |
-| 🗄️ SQL Practice | SQL queries and database practice | SQL / MySQL |
-| 📊 Data Science Projects | Data analysis and visualization projects | Python |
-| 🌐 Web Projects | Small web development projects | HTML • CSS • JavaScript |
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
 
-> 🚧 More projects coming soon...
+**VS Code • Git • GitHub**
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 **Python & Problem Solving**
+- 🧠 **Data Structures & Algorithms**
+- 🗄️ **SQL & Databases**
+- 📊 **Data Analysis & Visualization**
+- 🔬 **Data Science**
+
+---
+
+## 🚀 Projects
+
+| Project | Technology |
+|---|---|
+| 🐍 Python Practice | Python |
+| 🧠 DSA Practice | Python |
+| 🗄️ SQL Practice | SQL / MySQL |
+| 📊 Data Analysis Projects | Python |
+
+> 🚧 More projects coming soon.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SomeshwarDeore&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarDeore&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SomeshwarDeore&show_icons=true&hide_border=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshwarDeore&layout=compact&hide_border=true&theme=transparent" height="160"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SomeshwarDeore&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SomeshwarDeore&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-
-```python
-learning = {
-    "Programming": ["Python"],
-    
-    "DSA": [
-        "Lists",
-        "Strings",
-        "Stack",
-        "Queue",
-        "Searching",
-        "Sorting",
-        "Recursion"
-    ],
-    
-    "Database": [
-        "SQL",
-        "MySQL",
-        "Database Fundamentals"
-    ],
-    
-    "Data Science": [
-        "NumPy",
-        "Pandas",
-        "Matplotlib",
-        "Data Analysis"
-    ],
-    
-    "Tools": [
-        "Git",
-        "GitHub",
-        "VS Code"
-    ]
-}
-```
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/SomeshwarDeore">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/someshwar-deore-57b747425/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💡 My Philosophy
-
-> **"Learn the fundamentals. Build consistently. Never stop improving."**
+## 🐍 Contribution Snake
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  <img src="https://raw.githubusercontent.com/SomeshwarDeore/SomeshwarDeore/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Learn consistently. Build practically. Keep improving. 🚀</i>
 </p>
