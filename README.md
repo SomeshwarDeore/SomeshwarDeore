@@ -59,12 +59,14 @@ I'm a **2nd-year Information Technology student** passionate about programming, 
 ### 📚 Libraries & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557c" height="45" alt="Matplotlib"/>
 </p>
 
 **NumPy • Pandas • Matplotlib**
-
----
 
 ## 📊 Data Science & Analytics
 
