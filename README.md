@@ -92,8 +92,6 @@ I'm a **2nd-year Information Technology student** passionate about programming, 
 
 ---
 
-# 📊 GitHub Summary Dashboard
-
 ## 📈 GitHub Contribution Summary
 
 <p align="center">
@@ -112,14 +110,6 @@ I'm a **2nd-year Information Technology student** passionate about programming, 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SomeshwarDeore&theme=github_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SomeshwarDeore&theme=github_dark&utcOffset=5.5" width="49%" />
-</p>
-
----
-
-## 📅 Daily GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/SomeshwarDeore" width="100%" alt="Daily GitHub Contributions" />
 </p>
 
 ---
